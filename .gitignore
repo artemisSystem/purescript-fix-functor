@@ -1,0 +1,6 @@
+/output/
+/generated-docs/
+/.psc*
+/.purs*
+/.psa*
+/.spago
